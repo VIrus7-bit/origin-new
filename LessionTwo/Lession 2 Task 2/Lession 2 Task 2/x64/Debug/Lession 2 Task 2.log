@@ -1,5 +1,0 @@
-﻿  Lession 2 Task 2.cpp
-C:\Users\italy\source\repos\Lession 2 Task 2\Lession 2 Task 2.cpp(20,25): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
-C:\Users\italy\source\repos\Lession 2 Task 2\Lession 2 Task 2.cpp(20,25): warning C4305: инициализация: усечение из "int" в "char"
-C:\Users\italy\source\repos\Lession 2 Task 2\Lession 2 Task 2.cpp(20,25): warning C4309: инициализация: усечение константного значения
-  Lession 2 Task 2.vcxproj -> C:\Users\italy\source\repos\Lession 2 Task 2\x64\Debug\Lession 2 Task 2.exe
